@@ -1,4 +1,4 @@
-# Zaman Dizini Tahmini
+# Zaman Serisi Tahmini
 
 https://github.com/facebookresearch/Kats
 
