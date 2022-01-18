@@ -17,6 +17,8 @@ https://github.com/uber/orbit
 
 ## Yapay Sinir Ağları
 
+https://keras.io/examples/timeseries/
+
 https://github.com/zhouhaoyi/Informer2020
 
 https://github.com/ourownstory/neural_prophet
@@ -24,8 +26,6 @@ https://github.com/ourownstory/neural_prophet
 https://github.com/timeseriesAI/tsai
 
 https://github.com/ourownstory/AR-Net
-
-https://keras.io/examples/timeseries/
 
 ## Liste
 
