@@ -14,6 +14,8 @@ https://github.com/SeldonIO/alibi-detect
 
 https://github.com/uber/orbit
 
+https://github.com/linkedin/greykite
+
 
 ## Yapay Sinir Ağları
 
