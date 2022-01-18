@@ -2,6 +2,8 @@
 
 https://github.com/facebookresearch/Kats
 
+https://github.com/salesforce/Merlion
+
 https://github.com/alan-turing-institute/sktime
 
 https://github.com/microsoft/forecasting
