@@ -25,6 +25,8 @@ https://github.com/timeseriesAI/tsai
 
 https://github.com/ourownstory/AR-Net
 
+https://keras.io/examples/timeseries/
+
 ## Liste
 
 https://github.com/MaxBenChrist/awesome_time_series_in_python
