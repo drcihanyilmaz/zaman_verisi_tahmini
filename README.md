@@ -16,6 +16,7 @@ https://github.com/uber/orbit
 
 https://github.com/linkedin/greykite
 
+https://github.com/statsmodels/statsmodels
 
 ## Yapay Sinir Ağları
 
