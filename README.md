@@ -32,6 +32,8 @@ https://github.com/timeseriesAI/tsai
 
 https://github.com/ourownstory/AR-Net
 
+https://github.com/AIStream-Peelout/flow-forecast
+
 ## Liste
 
 https://github.com/MaxBenChrist/awesome_time_series_in_python
