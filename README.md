@@ -24,6 +24,8 @@ https://github.com/TDAmeritrade/stumpy
 
 https://github.com/AutoViML/Auto_TS
 
+https://github.com/NVIDIA/DeepLearningExamples/tree/master/Tools/PyTorch/TimeSeriesPredictionPlatform
+
 ## Yapay Sinir Ağları
 
 https://keras.io/examples/timeseries/
@@ -37,6 +39,7 @@ https://github.com/timeseriesAI/tsai
 https://github.com/ourownstory/AR-Net
 
 https://github.com/AIStream-Peelout/flow-forecast
+
 
 ## Liste
 
