@@ -18,6 +18,8 @@ https://github.com/linkedin/greykite
 
 https://github.com/statsmodels/statsmodels
 
+https://github.com/TDAmeritrade/stumpy
+
 ## Yapay Sinir Ağları
 
 https://keras.io/examples/timeseries/
