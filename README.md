@@ -20,6 +20,8 @@ https://github.com/statsmodels/statsmodels
 
 https://github.com/TDAmeritrade/stumpy
 
+https://github.com/AutoViML/Auto_TS
+
 ## Yapay Sinir Ağları
 
 https://keras.io/examples/timeseries/
