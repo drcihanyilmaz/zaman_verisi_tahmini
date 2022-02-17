@@ -38,6 +38,8 @@ https://github.com/ourownstory/AR-Net
 
 https://github.com/AIStream-Peelout/flow-forecast
 
+https://github.com/jdb78/pytorch-forecasting
+
 
 ## Liste
 
