@@ -2,6 +2,8 @@
 
 https://github.com/unit8co/darts
 
+https://github.com/Nixtla/statsforecast
+
 https://github.com/facebookresearch/Kats
 
 https://github.com/salesforce/Merlion
