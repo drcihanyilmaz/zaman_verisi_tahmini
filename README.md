@@ -42,6 +42,8 @@ https://github.com/AIStream-Peelout/flow-forecast
 
 https://github.com/jdb78/pytorch-forecasting
 
+https://github.com/Nixtla/neuralforecast
+
 
 ## Liste
 
