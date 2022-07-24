@@ -18,8 +18,6 @@ https://github.com/tslearn-team/tslearn
 
 https://github.com/SeldonIO/alibi-detect
 
-https://github.com/uber/orbit
-
 https://github.com/linkedin/greykite
 
 https://github.com/statsmodels/statsmodels
