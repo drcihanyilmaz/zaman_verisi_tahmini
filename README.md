@@ -1,5 +1,7 @@
 # Zaman Serisi Tahmini
 
+https://github.com/AutoViML/Auto_TS
+
 https://github.com/JoaquinAmatRodrigo/skforecast/
 
 https://github.com/uber/orbit
