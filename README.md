@@ -48,6 +48,8 @@ https://github.com/jdb78/pytorch-forecasting
 
 https://github.com/Nixtla/neuralforecast
 
+https://github.com/zalandoresearch/pytorch-ts
+
 
 ## Liste
 
