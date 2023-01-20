@@ -50,6 +50,8 @@ https://github.com/Nixtla/neuralforecast
 
 https://github.com/zalandoresearch/pytorch-ts
 
+https://github.com/kashif/pytorch-transformer-ts
+
 
 ## Liste
 
