@@ -56,6 +56,8 @@ https://github.com/thuml/Nonstationary_Transformers
 
 https://github.com/cure-lab/LTSF-Linear
 
+https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE
+
 ## Eğitim
 https://github.com/qingsongedu/timeseries-tutorial-kdd-2022
 
