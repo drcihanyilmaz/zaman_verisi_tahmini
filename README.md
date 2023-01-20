@@ -56,6 +56,9 @@ https://github.com/thuml/Nonstationary_Transformers
 
 https://github.com/cure-lab/LTSF-Linear
 
+## Eğitim
+https://github.com/qingsongedu/timeseries-tutorial-kdd-2022
+
 ## Liste
 
 https://github.com/MaxBenChrist/awesome_time_series_in_python
