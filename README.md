@@ -54,6 +54,8 @@ https://github.com/kashif/pytorch-transformer-ts
 
 https://github.com/thuml/Nonstationary_Transformers
 
+https://github.com/cure-lab/LTSF-Linear
+
 ## Liste
 
 https://github.com/MaxBenChrist/awesome_time_series_in_python
