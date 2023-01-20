@@ -52,6 +52,7 @@ https://github.com/zalandoresearch/pytorch-ts
 
 https://github.com/kashif/pytorch-transformer-ts
 
+https://github.com/thuml/Nonstationary_Transformers
 
 ## Liste
 
