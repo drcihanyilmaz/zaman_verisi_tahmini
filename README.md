@@ -30,6 +30,16 @@ https://github.com/TDAmeritrade/stumpy
 
 https://github.com/AutoViML/Auto_TS
 
+https://tsfresh.readthedocs.io/en/latest/#
+
+https://github.com/python-streamz/streamz
+
+https://tsfel.readthedocs.io/en/latest/
+
+https://dmbee.github.io/seglearn/
+
+https://x-datainitiative.github.io/tick/
+
 ## Yapay Sinir Ağları
 
 https://keras.io/examples/timeseries/
