@@ -68,6 +68,8 @@ https://github.com/cure-lab/LTSF-Linear
 
 https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE
 
+https://github.com/thuml/Time-Series-Library
+
 ## Eğitim
 https://github.com/qingsongedu/timeseries-tutorial-kdd-2022
 
