@@ -1,5 +1,19 @@
 # Zaman Serisi Tahmini
 
+https://www.kaggle.com/code/youssef19/time-series-forecasting-with-arima-models-part-1/notebook
+
+https://www.ikigailabs.io/resources/guides/multivariate-time-series-forecasting-in-python
+
+https://github.com/MAZiqing/FEDformer
+
+https://github.com/thuml/Time-Series-Library
+
+https://huggingface.co/blog/time-series-transformers
+
+https://github.com/yuqinie98/PatchTST
+
+https://github.com/winedarksea/AutoTS
+
 https://github.com/AutoViML/Auto_TS
 
 https://github.com/JoaquinAmatRodrigo/skforecast/
