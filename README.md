@@ -1,5 +1,7 @@
 # Zaman Serisi Tahmini
 
+https://cienciadedatos.net/documentos/py41-forecasting-cryptocurrency-bitcoin-machine-learning-python.html
+
 https://aws-fortuna.readthedocs.io/en/latest/examples/enbpi_ts_regression.html
 
 https://github.com/MichauGabriel/DeSpaWN
