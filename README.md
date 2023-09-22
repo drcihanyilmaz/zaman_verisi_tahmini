@@ -1,5 +1,7 @@
 # Zaman Serisi Tahmini
 
+https://aws-fortuna.readthedocs.io/en/latest/examples/enbpi_ts_regression.html
+
 https://github.com/MichauGabriel/DeSpaWN
 
 https://www.kaggle.com/code/youssef19/time-series-forecasting-with-arima-models-part-1/notebook
