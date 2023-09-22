@@ -1,5 +1,7 @@
 # Zaman Serisi Tahmini
 
+https://github.com/MichauGabriel/DeSpaWN
+
 https://www.kaggle.com/code/youssef19/time-series-forecasting-with-arima-models-part-1/notebook
 
 https://www.ikigailabs.io/resources/guides/multivariate-time-series-forecasting-in-python
